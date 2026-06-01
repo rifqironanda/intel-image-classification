@@ -1,0 +1,31 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Node
+node_modules/
+my-app/node_modules/
+
+# TensorFlow
+saved_model/
+*.h5
+
+# Dataset
+dataset/
+intel/
+Dataset-Final-img/
+*.zip
+
+# Logs
+logs/
+
+# VSCode
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
