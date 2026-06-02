@@ -11,7 +11,6 @@ node_modules/
 my-app/node_modules/
 
 # TensorFlow
-saved_model/
 *.h5
 
 # Dataset
